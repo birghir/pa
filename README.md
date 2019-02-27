@@ -1,11 +1,15 @@
 # Piñol's Adventure
 [explain the game concept here]
 
-## Developed With
+## Table of Contents
+- (2.)  Developed With
+- (1.)  Using This Repo
+
+## 1. Developed With
 - [Godot](https://www.godot.com) - The DE used
 - [Piskelapp](https://www.piskelapp.com/) - The pixel sprite editor used
 
-## Using This Repo
+## 2. Using This Repo
 1. Open the Terminal and execute the following command:
 
    ```mkdir ~/repos```
