@@ -2,8 +2,8 @@
 [explain the game concept here]
 
 ## Table of Contents
-- (2.)  Developed With
-- (1.)  Using This Repo
+1.  Developed With
+2.  Using This Repo
 
 ## 1. Developed With
 - [Godot](https://www.godot.com) - The DE used
